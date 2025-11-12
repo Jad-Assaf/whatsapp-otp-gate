@@ -283,4 +283,4 @@ curl -X POST https://<vercel-app>/api/checkout-url \
 
 ---
 
-Feel free to adapt this implementation to suit your needs.  Contributions and suggestions are welcome!# whatsapp-otp-gate
+Feel free to adapt this implementation to suit your needs.  Contributions and suggestions are welcome!
